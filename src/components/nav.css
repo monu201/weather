@@ -1,0 +1,44 @@
+
+.burgur{
+    color:white;
+    font-size:25px
+
+}
+.navbar-brand{
+    font-size:25px;
+}
+
+.head-b{
+    font-size:18px
+}
+.bg{
+    background-color: aliceblue;
+}
+
+
+.nav-link{
+
+    transition: all 0.2s ease-in;
+   
+}
+
+.nav-link:hover{
+
+    background-color:white;
+    
+}
+
+
+
+@media only screen and (max-width: 768px)
+{
+    .nav{
+        padding:0 0.5em;
+        display:flex;
+        justify-content:center;
+        
+    }
+    .nav-link{
+        font-size:15px;
+    }
+}

@@ -1,0 +1,46 @@
+.x{
+    color:white;
+    border-radius: 2em;
+    width: 300px;
+    height: 30%;
+    margin:3em auto;
+    padding:1em;
+}
+.x>a{
+    color:blue;
+    transition: all 0.5s ease-in;
+}
+.x>a:hover{
+    color:coral
+
+}
+
+.re{
+    margin-top:2%
+}
+
+.x>i{
+    font-size:50px;
+
+}
+
+.qq{
+    margin-top:2em;
+}
+
+.ll{
+    margin:0 10px;
+
+}
+
+.changeunit{
+    background:none;
+    outline:none;
+    border:none;
+    color:white;
+}
+.changeunit>i{
+    font-size: 1em;
+}
+
+
